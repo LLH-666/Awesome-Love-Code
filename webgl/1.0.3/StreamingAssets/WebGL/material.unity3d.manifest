@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4195660708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0f231d3c6f49be6fe6f661828e9fb1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesTemp/Materials/butterfly_yellow.mat
+- Assets/ResourcesTemp/Materials/butterfly_blue.mat
+- Assets/ResourcesTemp/Materials/butterfly_cyan.mat
+- Assets/ResourcesTemp/Materials/butterfly_purple.mat
+Dependencies: []

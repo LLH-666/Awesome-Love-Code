@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2492942497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d484eb417d41a6c6813a99f97f399f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesTemp/Jsons/DailyPuzzleData_Json.json
+- Assets/ResourcesTemp/Jsons/TreasureConfig_Json.json
+- Assets/ResourcesTemp/Jsons/ModelData_Json.json
+- Assets/ResourcesTemp/Jsons/CustomLevelData_Json.json
+- Assets/ResourcesTemp/Jsons/LevelData_Json.json
+- Assets/ResourcesTemp/Jsons/DailyRewardData_Json.json
+- Assets/ResourcesTemp/Jsons/ThemeData_Json.json
+- Assets/ResourcesTemp/Jsons/ShopConfig_Json.json
+- Assets/ResourcesTemp/Jsons/PassData_Json.json
+Dependencies: []

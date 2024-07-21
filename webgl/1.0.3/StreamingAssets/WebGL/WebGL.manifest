@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1009240002
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: json.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: material.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: sprite.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: prefab.unity3d
+      Dependencies:
+        Dependency_0: material.unity3d
+        Dependency_1: sprite.unity3d

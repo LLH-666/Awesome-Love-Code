@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 607276912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7722dd6f425f650349fe862f629c4e19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesTemp/Sprites/fly_icon_coin_img.png
+- Assets/ResourcesTemp/Sprites/fanbei_orange_img.png
+- Assets/ResourcesTemp/Sprites/EndlessTreasure/reward_lvchest.png
+- Assets/ResourcesTemp/Sprites/setting_btn_sound_img.png
+- Assets/ResourcesTemp/Sprites/setting_btn_mute_img.png
+- Assets/ResourcesTemp/Sprites/prop_icon_hint_l_img.png
+- Assets/ResourcesTemp/Sprites/EndlessTreasure/reward_lvchest_opened.png
+- Assets/ResourcesTemp/Sprites/fly_icon_ice_img.png
+- Assets/ResourcesTemp/Sprites/prop_icon_ice_l_img.png
+- Assets/ResourcesTemp/Sprites/fanbei_yellow_img.png
+- Assets/ResourcesTemp/Sprites/setting_btn_vibrate2_img.png
+- Assets/ResourcesTemp/Sprites/fly_icon_clock_img.png
+- Assets/ResourcesTemp/Sprites/fanbei_green_img.png
+- Assets/ResourcesTemp/Sprites/fly_icon_star_img.png
+- Assets/ResourcesTemp/Sprites/setting_btn_vibrate1_img.png
+- Assets/ResourcesTemp/Sprites/prop_icon_extratime_l_img.png
+- Assets/ResourcesTemp/Sprites/EndlessTreasure/reward_stchest_opened.png
+- Assets/ResourcesTemp/Sprites/fanbei_red_img.png
+- Assets/ResourcesTemp/Sprites/prop_icon_magnet_l_img.png
+- Assets/ResourcesTemp/Sprites/EndlessTreasure/reward_stchest.png
+- Assets/ResourcesTemp/Sprites/prop_icon_shuffle_l_img.png
+Dependencies: []

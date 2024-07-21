@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670557410817",
+    "project_id": "tilematch-android",
+    "storage_bucket": "tilematch-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670557410817:android:c72404c4b1be16596e5200",
+        "android_client_info": {
+          "package_name": "com.tile.match3d.tripe.puzzle.master.free.games.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670557410817-a7la4l4b4afnpp728qe0o4dv1fe8fbvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfPvRQdHcow1ZV4L5qP4pdxUc_WcyHcU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670557410817-a7la4l4b4afnpp728qe0o4dv1fe8fbvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
